@@ -1,2 +1,2 @@
 # RayTracing
-![alt text for screen readers](image.png)
+![alt text for screen readers](rayTraceDemoPlot.png)
